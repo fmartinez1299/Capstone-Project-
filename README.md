@@ -3,7 +3,7 @@
 Here is the README for all four project ideas, with each section formatted consistently:
 
 Capstone Project Ideas
-1. Appointment Scheduler 📅
+Idea 1. Appointment Scheduler 
 Overview:
 The Appointment Scheduler is a web-based application designed to streamline the scheduling process for medical offices. It allows doctors and receptionists to manage appointments efficiently while enabling patients to book available slots online. The system ensures real-time updates, preventing double bookings and conflicts.
 
@@ -43,7 +43,10 @@ Define database schema and API endpoints.
 Feedback:
 This is an initial project proposal. Feedback and suggestions are welcome!
 
-2. AI-Powered Musical Instrument Store 🎸
+
+
+
+Idea 2. AI-Powered Musical Instrument Store 
 Overview:
 This project aims to create a modern e-commerce website for musical instruments, leveraging AI-powered search and recommendations to enhance user experience. Inspired by platforms like Sweetwater and Guitar Center, this store will provide an intuitive shopping experience with smart search functionality.
 
@@ -77,7 +80,11 @@ Next Steps:
 Define database schema and API endpoints.
 Set up GitHub repository and project structure.
 Research AI tools for search and recommendation optimization.
-3. Calisthenics Fitness Tracker 💪
+
+
+
+
+3. Calisthenics Fitness Tracker 
 Overview:
 The Calisthenics Fitness Tracker is a web-based application designed for bodyweight fitness enthusiasts to log exercises, track progress, and receive personalized workout plans. Unlike traditional fitness apps focused on weightlifting, this app prioritizes calisthenics, allowing users to monitor their progress effectively.
 
@@ -115,7 +122,12 @@ Next Steps:
 Set up GitHub repository and project structure.
 Define database schema and API endpoints.
 Develop initial UI/UX wireframes.
-4. Music Discovery Platform 🎵
+
+
+
+
+
+4. Music Discovery Platform 
 Overview:
 The Music Discovery Platform is a web application designed for music lovers who want to discover new songs, albums, and artists tailored to their unique listening tastes. The app allows users to explore music, create personalized playlists, and get AI-powered recommendations based on their listening history.
 
